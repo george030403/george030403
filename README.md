@@ -43,15 +43,7 @@
 - 🛒 **[FerreApp](https://github.com/george030403/ferreapp)** API REST para gestión de inventario de ferretería.
   `Python | FastAPI | MySQL | Docker`
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=george030403&theme=radical" alt="GitHub Streak" />
-</p>
-
----
 
 ### 🏆 Achievements
 - 🌟 Contributed to open source projects on GitHub.

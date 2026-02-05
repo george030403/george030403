@@ -50,6 +50,11 @@
 
 <p align="left">🧠 medscan<br>Asistente para interpretar resultados de análisis clínicos de forma sencilla.<br><br>🕹️ ahorcado<br>Juego multijugador de Ahorcado con React + Vite + Supabase.<br><br>🛒 FerreApp<br>API REST para inventario de ferretería con buenas prácticas en Python.</p>
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=george030403&show_icons=true&theme=radical)
+
+
+
 ###
 
 <h3 align="center">📬 Contacto</h3>

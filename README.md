@@ -47,14 +47,20 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=george030403&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george030403&layout=compact&theme=radical" alt="Top Langs" height="170" />
-</p>
-
-<p align="center">
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=george030403&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=george030403&layout=compact&theme=radical" alt="Top Langs" height="170" />
+      </td>
+    </tr>
+  </table>
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=george030403&theme=radical" alt="GitHub Streak" />
-</p>
+</div>
 
 ---
 
@@ -69,12 +75,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/george-ascuy-1b20ba346/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" height="35" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:georgeascuy777@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/george030403">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="35" height="35" alt="github" />
+  <a href="https://github.com/george030403" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>

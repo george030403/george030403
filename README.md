@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
@@ -43,6 +44,10 @@
 #### 🧠 [MedScan](https://github.com/george030403/medscan)
 Asistente digital para interpretar resultados de análisis clínicos de manera sencilla y comprensible para pacientes.
 <br>`Python` `FastAPI` `React` `Supabase`
+
+#### 💡 [Temio](https://github.com/george030403/temio)
+Aplicación web moderna con React y Vite para gestión de ideas, landing pages y dashboards con componentes reutilizables.
+<br>`React 18` `Vite` `TailwindCSS` `Radix UI` `Framer Motion`
 
 #### 🕹️ [Ahorcado Multiplayer](https://github.com/george030403/ahorcado)
 Juego del ahorcado multijugador en tiempo real con interfaz moderna.

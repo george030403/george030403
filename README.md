@@ -11,11 +11,12 @@
 
 ### 👩‍💻 Sobre Mí
 
-- 💻 Desarrollador Full‑Stack especializado en Python, FastAPI y React
+- 💻 Desarrollador Full‑Stack especializado en Python, FastAPI, React y PHP
 - 🚀 Creando aplicaciones web modernas con tecnologías escalables
-- 🏥 Enfocado en proyectos de salud digital e interfaces interactivas
+- 🏥 Enfocado en proyectos de **salud digital** e interfaces interactivas (MedScan, Pastillero Virtual)
+- 🎮 Desarrollo de juegos multiplayer y herramientas de gestión
 - 📚 Aprendiendo continuamente nuevas tecnologías y mejores prácticas
-- ⚡ En mi tiempo libre experimento con juegos multiplayer y arquitecturas monolíticas
+- ⚡ Experimentando con modelos 3D, WebGL y arquitecturas modernas
 
 ---
 
@@ -26,6 +27,7 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -44,6 +46,10 @@
 #### 🧠 [MedScan](https://github.com/george030403/medscan)
 Asistente digital para interpretar resultados de análisis clínicos de manera sencilla y comprensible para pacientes.
 <br>`Python` `FastAPI` `React` `Supabase`
+
+#### 💊 [Pastillero Virtual](https://github.com/george030403/pastillero)
+Sistema web de gestión de medicamentos con modelo 3D interactivo del pastillero, roles de administrador y paciente, y gestión de compartimentos.
+<br>`PHP` `MySQL` `WebGL` `JavaScript` `OpenSCAD`
 
 #### 💡 [Temio](https://github.com/george030403/temio)
 Aplicación web moderna con React y Vite para gestión de ideas, landing pages y dashboards con componentes reutilizables.
